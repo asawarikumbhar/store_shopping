@@ -6,7 +6,7 @@ The Store Management System is a simple PHP + MySQL web application used to mana
 
 
 #Tech Used -->
-PHP
-MySQL
-HTML, CSS, Bootstrap
-XAMPP
+PHP,
+MySQL,
+HTML, CSS, Bootstrap,
+XAMPP, visual studio etc
